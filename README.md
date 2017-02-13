@@ -1,7 +1,7 @@
-Ionic 2 App Base
+Ionic 2 Speech Recognition
 =====================
 
-This is the base template for Ionic 2 starter apps.
+This is a sample app with Speech recognition using webkit API in a Ionic 2 starter menu app.
 
 ## Using this project
 
