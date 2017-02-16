@@ -68,7 +68,7 @@ export class Page1 {
       console.log('Platform ready from', readySource);
       let _window = (<any>window);
 
-      if (this.platform.is('mobile')) {
+      if (this.platform.is('cordova')) {
         this.recognition = new _window.SpeechRecognition();
         this.initializeRecognition();
       } else {
