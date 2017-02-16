@@ -20,13 +20,16 @@ Web: [Project home page][project_link]
 
 # Install
 ## Web
-* npm install
-* ionic serve
+* `npm install`
+* `ionic serve`
 
 ## Android
-* npm install
-* cordova prepare
-* cordova run android
+* `npm install`
+* `cordova prepare`
+* `cordova run android`
+
+# Deploy Web
+* `ionic build browser --prod` Contents generated in **www** folder
 
 # License
 
